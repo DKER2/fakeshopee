@@ -8,5 +8,6 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  resolve: { alias: { '@': '/src' } }
+  resolve: { alias: { '@': '/src' } },
+  base: '/fakeshopee/'
 })
