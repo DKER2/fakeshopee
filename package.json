@@ -2,6 +2,7 @@
   "name": "shopee",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dker2.github.io/fakeshopee"
   "type": "module",
   "scripts": {
     "dev": "vite",
